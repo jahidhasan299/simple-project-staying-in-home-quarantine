@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83c4685c-b238-4fe5-9fee-48c9c7e0e654" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Record_Audio_to_Text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextEditor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Text_to_Speach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic Tac Toe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aboutme.aac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bangla-lang.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stopwatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text editor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/then.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bUg7MNSFsAqZh7fSvjaKyq8GH6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Animation-Nation/Art" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Tic-Tac-Toe">
+    <configuration name="Record_Audio_to_Text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Open Source Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Record_Audio_to_Text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TextEditor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Open Source Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TextEditor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Text_to_Speach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Open Source Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Text_to_Speach.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tic-Tac-Toe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Open Source Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tic-Tac-Toe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stopwatch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Open Source Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stopwatch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Tic-Tac-Toe" />
+        <item itemvalue="Python.TextEditor" />
+        <item itemvalue="Python.stopwatch" />
+        <item itemvalue="Python.Record_Audio_to_Text" />
+        <item itemvalue="Python.Text_to_Speach" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83c4685c-b238-4fe5-9fee-48c9c7e0e654" name="Default Changelist" comment="" />
+      <created>1588691917499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588691917499</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="1091" height="900" key="CommitChangelistDialog2" timestamp="1588692334919">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="1091" height="900" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1588692334919" />
+    <state width="1411" height="231" key="GridCell.Tab.0.bottom" timestamp="1588965775157">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1411" height="231" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1588965775157" />
+    <state width="1411" height="231" key="GridCell.Tab.0.center" timestamp="1588965775156">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1411" height="231" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1588965775156" />
+    <state width="1411" height="231" key="GridCell.Tab.0.left" timestamp="1588965775155">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1411" height="231" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1588965775155" />
+    <state width="1411" height="231" key="GridCell.Tab.0.right" timestamp="1588965775156">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1411" height="231" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1588965775156" />
+    <state x="148" y="1" key="SettingsEditor" timestamp="1588836022378">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="148" y="1" key="SettingsEditor/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1588836022378" />
+    <state x="451" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588692351025">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="451" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1588692351025" />
+    <state x="301" y="-1" width="838" height="1034" key="search.everywhere.popup" timestamp="1588835927369">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="-1" width="838" height="1034" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1588835927369" />
+  </component>
+</project>
